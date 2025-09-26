@@ -1,0 +1,5 @@
+name = "smart-invoice-manager"
+compatibility_date = "2025-09-26"
+
+# For Cloudflare Pages deployment
+pages_build_output_dir = "out"
